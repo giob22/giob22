@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 Consolas, 'Courier New', monospace
 'Droid Sans Mono', 'monospace', monospace
+
+Prossimo progetto:
+convertitore di testa da md in latex
 -->
