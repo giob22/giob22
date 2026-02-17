@@ -17,6 +17,10 @@ A VS Code extension that dynamically inserts code snippets into `.md` files. I b
 A collection of notes and study materials from the Operating Systems course I attended at university.
 - **[🌐 Read the Theory Online (in italian)](https://giob22.github.io/Appunti/)**
 
+### ✍️ Get in Touch
+
+I'm always looking to improve, so **suggestions and feedback on my projects are highly appreciated!**
+
 <!--
 **giob22/giob22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
