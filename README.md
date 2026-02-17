@@ -1,8 +1,21 @@
-## Hi there 👋 welcome to my GitHub page
+# Hi, I'm Giovanni! 👋
+### 🚀 Developer | Tool Builder | Low-Level Explorer
 
-![I linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=giob22&layout=compact&theme=radical)
+Welcome to my GitHub! I build practical tools to improve workflows, and I'm currently diving into low-level programming to understand how systems work under the hood.
 
+---
 
+### 💻 Projects
+
+#### 📂 [VS Code Dynamic Markdown Inserter](https://github.com/giob22/Markdown-Code-Embedder.git)
+A VS Code extension that dynamically inserts code snippets into `.md` files. I built this from scratch because I couldn't find an existing extension that handled this task the way I needed it to.
+
+#### 📂 [Minimal Kernel with QEMU](https://github.com/giob22/1kernel.git)
+**Work in Progress.** I am building a minimal kernel and emulating it through QEMU. I am following a detailed online guide, and the repository is fully documented step-by-step up to my current progress.
+
+#### 📂 [Operating Systems Notes](https://github.com/giob22/Sistemi_Operativi.git)
+A collection of notes and study materials from the Operating Systems course I attended at university.
+- **[🌐 Read the Theory Online (in italian)](https://giob22.github.io/Appunti/)**
 
 <!--
 **giob22/giob22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
