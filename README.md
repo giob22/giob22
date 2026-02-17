@@ -1,5 +1,7 @@
 ## Hi there 👋 welcome to my GitHub page
 
+![I linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=giob22&layout=compact&theme=radical)
+
 
 
 <!--
