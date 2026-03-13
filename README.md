@@ -1,5 +1,5 @@
 # Hi, I'm Giovanni! 👋
-### 🚀 Developer | Tool Builder | Low-Level Explorer
+<!--### 🚀 Developer | Tool Builder | Low-Level Explorer-->
 
 Welcome to my GitHub! I build practical tools to improve workflows, and I'm currently diving into low-level programming to understand how systems work under the hood.
 
