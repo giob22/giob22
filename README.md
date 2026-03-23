@@ -17,6 +17,13 @@ A VS Code extension that dynamically inserts code snippets into `.md` files. I b
 A collection of notes and study materials from the Operating Systems course I attended at university.
 - **[🌐 Read the Theory Online (in italian)](https://giob22.github.io/Appunti/)**
 
+#### 📂 [Neural network](https://github.com/giob22/neural_network_python.git)
+A neural network module implementation written in Python. It works, but I'm currently refining the architecture to improve stability and flexibility, specifically regardering hidden layer configurations.
+
+Experiment with it: Feel free to fork the repo, tweak the parameters, and challeng the neural network to learn new logic gates (AND,OR,XOR,etc) or custom datasets..
+
+
+
 ### ✍️ Get in Touch
 
 I'm always looking to improve, so **suggestions and feedback on my projects are highly appreciated!**
