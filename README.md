@@ -23,7 +23,7 @@ I’m a developer focused on building practical tools that improve workflows and
 - **What it is:** A bare-metal minimal kernel built from scratch and emulated via QEMU.
 - **Goal:** Learning memory management, bootloaders, and system architecture.
 - **Tech:** `C`, `x86 Assembly`, `QEMU`.
-- **Status:** 🚧 Work in Progress (Step-by-step documentation included).
+- **Status:** ⏸️ On hold (Paused to focus on higher-level tooling and AI experiments but until now there is a step-by-step documentation included).
 
 #### 🧬 [Genetic Algorithms for Neural Networks](https://github.com/giob22/GA_on_neural_network.git)
 *Evolving intelligence.*
