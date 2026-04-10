@@ -1,49 +1,55 @@
 # Hi, I'm Giovanni! 👋
-<!--### 🚀 Developer | Tool Builder | Low-Level Explorer-->
+### 🚀 Developer | Low-Level Explorer | Tool Builder
 
-Welcome to my GitHub! I build practical tools to improve workflows, and I'm currently diving into low-level programming to understand how systems work under the hood.
+I’m a developer focused on building practical tools that improve workflows and diving deep into how systems work under the hood. From high-level automation to bare-metal programming, I love bridging the gap between hardware and software.
 
 ---
 
-### 💻 Projects
+### 🛠 Tech Stack & Tools
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly-%2300599C.svg?style=for-the-badge&logo=assembly&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### 📂 [VS Code Dynamic Markdown Inserter](https://github.com/giob22/Markdown-Code-Embedder.git)
-A VS Code extension that dynamically inserts code snippets into `.md` files. I built this from scratch because I couldn't find an existing extension that handled this task the way I needed it to.
+---
 
-#### 📂 [Minimal Kernel with QEMU](https://github.com/giob22/1kernel.git)
-**Work in Progress.** I am building a minimal kernel and emulating it through QEMU. I am following a detailed online guide, and the repository is fully documented step-by-step up to my current progress.
+### 📂 Highlighted Projects
 
-#### 📂 [Operating Systems Notes](https://github.com/giob22/Sistemi_Operativi.git)
-A collection of notes and study materials from the Operating Systems course I attended at university.
-- **[🌐 Read the Theory Online (in italian)](https://giob22.github.io/Appunti/)**
+#### 🐧 [Minimal Kernel with QEMU](https://github.com/giob22/1kernel.git)
+*An exploration into the heart of computing.*
+- **What it is:** A bare-metal minimal kernel built from scratch and emulated via QEMU.
+- **Goal:** Learning memory management, bootloaders, and system architecture.
+- **Tech:** `C`, `x86 Assembly`, `QEMU`.
+- **Status:** 🚧 Work in Progress (Step-by-step documentation included).
 
-#### 📂 [Neural network](https://github.com/giob22/neural_network_python.git)
-A neural network module implementation written in Python. It works, but I'm currently refining the architecture to improve stability and flexibility, specifically regardering hidden layer configurations.
+#### 🧬 [Genetic Algorithms for Neural Networks](https://github.com/giob22/GA_on_neural_network.git)
+*Evolving intelligence.*
+- **What it is:** A project that uses Genetic Algorithms to optimize and train Neural Network architectures.
+- **Why:** To explore alternative training methods beyond backpropagation.
+- **Tech:** `Python`, `NumPy`.
 
-Experiment with it: Feel free to fork the repo, tweak the parameters, and challeng the neural network to learn new logic gates (AND,OR,XOR,etc) or custom datasets..
+#### 📝 [VS Code Dynamic Markdown Inserter](https://github.com/giob22/Markdown-Code-Embedder.git)
+*Automating documentation workflows.*
+- **What it is:** A VS Code extension that dynamically embeds code snippets into Markdown files.
+- **Origin:** Built to solve a personal pain point in documentation management.
+- **Tech:** `TypeScript`, `VS Code API`.
 
+#### 📖 [Sistemi Operativi - Notes](https://github.com/giob22/Sistemi_Operativi.git)
+*Theoretical foundations.*
+- Comprehensive notes on Operating Systems (Processes, Concurrency, Memory, File Systems).
+- **[🌐 Read the online GitBook (Italian)](https://giob22.github.io/Appunti/)**
 
+---
 
 ### ✍️ Get in Touch
+I'm always open to feedback, collaboration, or just a chat about low-level stuff!
+- 📫 Reach me via GitHub Issues or LinkedIn.
+- 😄 Pronouns: He/Him
 
-I'm always looking to improve, so **suggestions and feedback on my projects are highly appreciated!**
-
-<!--
-**giob22/giob22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Consolas, 'Courier New', monospace
-'Droid Sans Mono', 'monospace', monospace
-
-Prossimo progetto:
-convertitore di testa da md in latex
--->
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giob22&show_icons=true&theme=tokyonight&hide_border=true" alt="Giovanni's GitHub stats" />
+</p>
