@@ -46,8 +46,7 @@ I’m a developer focused on building practical tools that improve workflows and
 
 ### ✍️ Get in Touch
 I'm always open to feedback, collaboration, or just a chat about low-level stuff!
-- 📫 Reach me via GitHub Issues or LinkedIn.
-- 😄 Pronouns: He/Him
+- 📫 Reach me via GitHub Issues
 
 ---
 <p align="center">
